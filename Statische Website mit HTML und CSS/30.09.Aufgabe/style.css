@@ -1,0 +1,52 @@
+body {
+    background-color: #f0f8ff; /* Ein helles Blau für den Hintergrund */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff4500; /* Kräftiges Orange für die Überschrift */
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 250px; /* Angepasste Breite des Bildes */
+    height:30%
+    
+    
+}
+
+div {
+    background-color: #ffcccb; /* Helles Rot für den Hintergrund */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square; /* Quadrat als Listenpunkt */
+    color: #ff4500; /* Farbe der Listenpunkte */
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.additional-section {
+    background-color: #d3ffce; /* Hellgrün für den neuen Abschnitt */
+    font-family: 'Courier New', Courier, monospace; /* Neue Schriftart */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.additional-section img {
+    width: 300px; /* Größeres Bild im neuen Abschnitt */
+}
